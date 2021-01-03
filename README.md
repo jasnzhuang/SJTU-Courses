@@ -22,6 +22,7 @@
 - CS385 机器学习
 - EI331 信号与系统
 - EI332 计算机组成
+- EI333 软件工程
 - EI338 计算机系统工程
 - EI339 人工智能
 - SE305 数据库技术
@@ -77,6 +78,7 @@
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [北大课程资料民间整理](https://github.com/lib-pku/libpku)
 - [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+- [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
 
 ## 联系方式
 sjtu.courses@outlook.com
